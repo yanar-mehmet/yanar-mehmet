@@ -22,8 +22,8 @@
 </div>
  
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- 🌱 - 🔭 I’m currently studying to become Full Stack Developer
+I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+- 🌱 - 🔭 I’m currently working as Data Engineer
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mehmet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-yanar-83655622b/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ynr.mehmet.60@gmail.com)
 <div id="aboutme" align="center">
